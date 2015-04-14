@@ -103,7 +103,7 @@
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
 		    
-		    <h1>Powered by <a href="http://mobilegrows.com/"><span style="color:#e87717;">MobileGrows</span> </a>|<a href="http://www.mrtequilarestaurant.com/" rel="external"><span style="color:#e87717;">DesktopSite</span> </a></h1>
+		    <h1>Powered by <a href="http://mobilegrows.com/" rel="external"><span style="color:#e87717;">MobileGrows</span> </a>|<a href="http://www.mrtequilarestaurant.com/" rel="external"><span style="color:#e87717;">DesktopSite</span> </a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
